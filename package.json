@@ -1,0 +1,19 @@
+{
+  "name": "grunt-url-combinator",
+  "version": "0.0.1",
+  "description": "Generates combinations of urls from a set of parameters and stores them as a json array.",
+  "main": "tasks/combinator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chunksnbits/grunt-url-combinator"
+  },
+  "author": "Daniel Eißing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chunksnbits/grunt-url-combinator/issues"
+  },
+  "homepage": "https://github.com/chunksnbits/grunt-url-combinator"
+}
