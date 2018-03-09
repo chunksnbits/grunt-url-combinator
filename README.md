@@ -1,3 +1,8 @@
+#### *DEPRECATED (This plugin is no longer maintained*
+#### Archive:
+
+---
+
 grunt-url-combinator
 ====================
 
